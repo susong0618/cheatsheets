@@ -23,3 +23,5 @@ _yardoc
 doc/
 
 .DS_STORE
+
+.idea
