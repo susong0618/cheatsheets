@@ -355,7 +355,7 @@ cheatsheet do
     end
 
     entry do
-      name '新建一个分支，但依然停留在当前分支'
+      name '新建一个分支，并切换到该分支'
       notes '
       ```
       git checkout -b [branch]
